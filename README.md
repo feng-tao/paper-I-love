@@ -9,3 +9,4 @@
 4. Airflow: a workflow management platform(https://medium.com/airbnb-engineering/airflow-a-workflow-management-platform-46318b977fd8)
 5. lessons learnt while airflowing(https://medium.com/nehiljain/lessons-learnt-while-airflow-ing-32d3b7fc3fbf)
 6. Open Sourcing WhereHows: A Data Discovery and Lineage Portal(https://engineering.linkedin.com/blog/2016/03/open-sourcing-wherehows--a-data-discovery-and-lineage-portal)
+7. Yelp data pipeline (https://engineeringblog.yelp.com/2016/11/open-sourcing-yelps-data-pipeline.html)
