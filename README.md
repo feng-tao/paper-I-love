@@ -16,3 +16,5 @@
 10. My YC interview experience(https://broadcast.listennotes.com/my-y-combinator-interview-experience-w18-c12e6d98c1d0)
 11. Tech stack behind listen nodes (https://broadcast.listennotes.com/the-boring-technology-behind-listen-notes-56697c2e347b)
 12. Airbnb data portal(https://medium.com/airbnb-engineering/democratizing-data-at-airbnb-852d76c51770)
+13. jfr-report-tool (https://github.com/feng-tao/jfr-report-tool) # tool to create report from JFR dumps
+14. Generating flame graphs for apache Spark(https://gist.github.com/kayousterhout/7008a8ebf2babeedc7ce6f8723fd1bf4)
