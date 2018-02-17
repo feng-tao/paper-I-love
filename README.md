@@ -18,3 +18,4 @@
 12. Airbnb data portal(https://medium.com/airbnb-engineering/democratizing-data-at-airbnb-852d76c51770)
 13. jfr-report-tool (https://github.com/feng-tao/jfr-report-tool) # tool to create report from JFR dumps
 14. Generating flame graphs for apache Spark(https://gist.github.com/kayousterhout/7008a8ebf2babeedc7ce6f8723fd1bf4)
+15. https://eng.lyft.com/awesome-tech-specs-86eea8e45bb9
