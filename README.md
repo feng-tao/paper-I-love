@@ -19,3 +19,4 @@
 13. jfr-report-tool (https://github.com/feng-tao/jfr-report-tool) # tool to create report from JFR dumps
 14. Generating flame graphs for apache Spark(https://gist.github.com/kayousterhout/7008a8ebf2babeedc7ce6f8723fd1bf4)
 15. https://eng.lyft.com/awesome-tech-specs-86eea8e45bb9
+16. https://medium.com/@leventov/comparison-of-the-open-source-olap-systems-for-big-data-clickhouse-druid-and-pinot-8e042a5ed1c7
