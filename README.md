@@ -20,3 +20,7 @@
 14. Generating flame graphs for apache Spark(https://gist.github.com/kayousterhout/7008a8ebf2babeedc7ce6f8723fd1bf4)
 15. https://eng.lyft.com/awesome-tech-specs-86eea8e45bb9
 16. https://medium.com/@leventov/comparison-of-the-open-source-olap-systems-for-big-data-clickhouse-druid-and-pinot-8e042a5ed1c7
+17. https://towardsdatascience.com/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71
+
+#### March
+1. https://engineering.instagram.com/open-sourcing-a-10x-reduction-in-apache-cassandra-tail-latency-d64f86b43589
