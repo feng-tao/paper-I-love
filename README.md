@@ -11,7 +11,6 @@
 6. Open Sourcing WhereHows: A Data Discovery and Lineage Portal(https://engineering.linkedin.com/blog/2016/03/open-sourcing-wherehows--a-data-discovery-and-lineage-portal)
 7. Yelp data pipeline (https://engineeringblog.yelp.com/2016/11/open-sourcing-yelps-data-pipeline.html)
 8. Understand Airflow key concept(https://medium.com/@dustinstansbury/understanding-apache-airflows-key-concepts-a96efed52b1a)
-   # Scheduler, worker, operator, dag, dagRun
 9. How quizlet use airflow in practice(https://medium.com/@dustinstansbury/how-quizlet-uses-apache-airflow-in-practice-a903cbb5626d)
 10. My YC interview experience(https://broadcast.listennotes.com/my-y-combinator-interview-experience-w18-c12e6d98c1d0)
 11. Tech stack behind listen nodes (https://broadcast.listennotes.com/the-boring-technology-behind-listen-notes-56697c2e347b)
