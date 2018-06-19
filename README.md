@@ -24,3 +24,12 @@
 
 #### March
 1. https://engineering.instagram.com/open-sourcing-a-10x-reduction-in-apache-cassandra-tail-latency-d64f86b43589
+
+#### June
+1. https://wecode.wepay.com/posts/improving-airflow-ui-security?cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email
+
+# Exact-once streaming
+2. https://streaml.io/blog/pulsar-effectively-once/
+3. https://data-artisans.com/blog/end-to-end-exactly-once-processing-apache-flink-apache-kafka
+4. https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/
+5. https://www.confluent.io/blog/enabling-exactly-kafka-streams/
