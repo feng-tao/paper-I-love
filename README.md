@@ -27,6 +27,10 @@
 #### June
 1. https://wecode.wepay.com/posts/improving-airflow-ui-security?cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email
 
+#### Dec
+1. https://medium.com/@paigen11/docker-101-fundamentals-the-dockerfile-b33b59d0f14b
+2. https://medium.com/@paigen11/docker-102-docker-compose-6bec46f18a0e
+
 # Exact-once streaming
 2. https://streaml.io/blog/pulsar-effectively-once/
 3. https://data-artisans.com/blog/end-to-end-exactly-once-processing-apache-flink-apache-kafka
