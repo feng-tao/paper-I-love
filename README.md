@@ -30,6 +30,8 @@
 #### Dec
 1. https://medium.com/@paigen11/docker-101-fundamentals-the-dockerfile-b33b59d0f14b
 2. https://medium.com/@paigen11/docker-102-docker-compose-6bec46f18a0e
+3. https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16
+4. https://medium.com/google-cloud/kubernetes-110-your-first-deployment-bf123c1d3f8
 
 # Exact-once streaming
 2. https://streaml.io/blog/pulsar-effectively-once/
