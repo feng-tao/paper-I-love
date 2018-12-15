@@ -42,3 +42,4 @@
 # Airflow k8s
 1. https://kubernetes.io/blog/2018/06/28/airflow-on-kubernetes-part-1-a-different-kind-of-operator/
 2. https://schd.ws/hosted_files/kccna18/5f/Airflow%20Kubecon%20Talk.pdf
+3. https://www.techatbloomberg.com/blog/airflow-on-kubernetes/
