@@ -38,3 +38,7 @@
 3. https://data-artisans.com/blog/end-to-end-exactly-once-processing-apache-flink-apache-kafka
 4. https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/
 5. https://www.confluent.io/blog/enabling-exactly-kafka-streams/
+
+# Airflow k8s
+1. https://kubernetes.io/blog/2018/06/28/airflow-on-kubernetes-part-1-a-different-kind-of-operator/
+2. https://schd.ws/hosted_files/kccna18/5f/Airflow%20Kubecon%20Talk.pdf
