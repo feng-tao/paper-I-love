@@ -43,3 +43,13 @@
 1. https://kubernetes.io/blog/2018/06/28/airflow-on-kubernetes-part-1-a-different-kind-of-operator/
 2. https://schd.ws/hosted_files/kccna18/5f/Airflow%20Kubecon%20Talk.pdf
 3. https://www.techatbloomberg.com/blog/airflow-on-kubernetes/
+
+# Data discovery and metadata
+1. Marquez(wework): https://www.slideshare.net/WillyLulciuc/marquez-a-metadata-service-for-data-abstraction-data-lineage-and-eventbased-triggers
+2. Discovery and Consumption of Analytics Data at Twitter: https://blog.twitter.com/engineering/en_us/topics/insights/2016/discovery-and-consumption-of-analytics-data-at-twitter.html
+3. Discover and Consumption of Analytics Data - Twitter
+4. Open Sourcing WhereHows: A Data Discovery and Lineage Portal - LinkedIn
+5. Apache Hive Metastore Design
+6. Databook: Turning Big Data into Knowledge with Metadata at Uber
+7. Goods: Organizing Google’s Datasets
+
